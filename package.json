@@ -1,0 +1,11 @@
+{
+  "name": "company-analysis",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python main.py"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
